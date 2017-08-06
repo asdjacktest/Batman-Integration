@@ -18,5 +18,4 @@ Check out [Batman Integration Live](https://suraj-root.github.io/Batman-Integrat
 * [LeiosOS website](http://leios.github.io/Batman_Montecarlo)
 
 ##### I was inspired by LeiosOS's post
-#### Check out this cool video by LeiosOS
-[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/AyBNnkYrSWY/maxresdefault.jpg)](https://www.youtube.com/watch?v=AyBNnkYrSWY)
+* [Youtube Explaination Video By LeiosOS](https://www.youtube.com/watch?v=AyBNnkYrSWY)
