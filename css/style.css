@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+body {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+	background: rgb(20,20,20);
+	color: #fff; 
+	font-family: Menlo, "DejaVu Sans Mono", "Lucida Console", monospace;
+	border: 0px;
+}
+
+#canvas {
+	width: 500px;
+	margin: 30px auto;
+	border: 1px solid #50E3C2;
+}
+
+header {
+	text-align: center;
+	width: 100%;
+	font-family: 'Roboto Slab', serif;
+	font-size: 25px;
+	background-color: #50E3C2;
+	background: -webkit-linear-gradient(#50E3C2, #29ffc6);
+	background: -o-linear-gradient(#50E3C2, #29ffc6);
+	background: -moz-linear-gradient(#50E3C2, #29ffc6);
+	background: linear-gradient(#50E3C2, #29ffc6);
+	-webkit-background-clip: text;
+ 	-webkit-text-fill-color: transparent;
+ 	-webkit-animation-delay: 0.05s;
+	-o-animation-delay: 0.05s;
+	-moz-animation-delay: 0.05s;
+}
+
+#sub {
+	text-align: center;
+	width: 500px;
+	margin: 0 auto;
+	background-color: #D2175F;
+	background: -webkit-linear-gradient(#ff0084, #D2175F);
+	background: -o-linear-gradient(#ff0084, #D2175F);
+	background: -moz-linear-gradient(#ff0084, #D2175F);
+	background: linear-gradient(#ff0084, #D2175F);
+	-webkit-background-clip: text;
+ 	-webkit-text-fill-color: transparent;
+}
+
+#buttons {
+	position: absolute;
+	margin: 100px;
+}
+
+.btn {
+	font-weight: 400;
+	color: #50E3C2;	
+	font-size: 80%;
+	text-decoration: none;
+	border: 1px solid #50E3C2;
+	padding: 6px 25px;
+	text-align: center;
+	transition: all 0.5s;
+	background-color: none;
+	float: left;
+	margin: 0 5px;
+	-webkit-animation-delay: 0.5s;
+	-o-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+}
+
+.btn:hover {
+	font-weight: bold;
+	color: #D2175F;	
+	background-color: #50E3C2;
+}
+
+#slider {
+	margin: 5px 0 0 85px;
+	float: left;
+	-webkit-animation-delay: 0.5s;
+	-o-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+}
+
+#stats {
+	position: absolute;
+	-webkit-animation-delay: 0.6s;
+	-o-animation-delay: 0.6s;
+	-moz-animation-delay: 0.6s;
+}
+
+#BCvalue, #BAvalue {
+	color: #D2175F;
+}
+
+#ECvalue, #EAvalue {
+	color: #50E3C2;
+}
+
+.btn2 {
+	font-weight: 400;
+	color: #D2175F;
+	font-size: 80%;
+	text-decoration: none;
+	border: 1px solid #D2175F;
+	padding: 6px 25px;
+	text-align: center;
+	transition: all 0.5s;
+	float: left;
+	font-weight: bold;
+	margin: 0 5px;
+	-webkit-animation-delay: 0.5s;
+	-o-animation-delay: 0.5s;
+	-moz-animation-delay: 0.5s;
+}
+
+.btn2:hover {
+	font-weight: bold;
+	color: rgb(20,20,20);	
+	background-color: #D2175F;
+}
+
+#twitter {
+	position: relative;
+	left:50%;
+}
+
+#github {
+	position: relative;
+	left:50%;
+}

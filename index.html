@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head data-root="${rootContext}">
+		<meta charset="UTF-8">
+		<title>Batman!</title>
+    	<script src="js/p5/p5.min.js"></script>
+    	<script src="js/p5/addons/p5.dom.min.js"></script>
+    	<script src="js/p5/addons/p5.sound.min.js"></script>
+    	<script src="js/jquery.min.js"></script>
+		<link rel="stylesheet" href="css/animate.css">
+
+    	<link rel="stylesheet" href="css/style.css">
+    	<script src="js/UI-jquery.js"></script>
+		<script src="js/sketch.js"></script>
+		<script src="js/batman.js"></script>
+		<link rel="icon" href="images/favicon.png">
+	</head>
+	<!--
+
+		 /$$$$$$$              /$$                                       /$$
+		| $$__  $$            | $$                                      | $$
+		| $$  \ $$  /$$$$$$  /$$$$$$   /$$$$$$/$$$$   /$$$$$$  /$$$$$$$ | $$
+		| $$$$$$$  |____  $$|_  $$_/  | $$_  $$_  $$ |____  $$| $$__  $$| $$
+		| $$__  $$  /$$$$$$$  | $$    | $$ \ $$ \ $$  /$$$$$$$| $$  \ $$|__/
+		| $$  \ $$ /$$__  $$  | $$ /$$| $$ | $$ | $$ /$$__  $$| $$  | $$    
+		| $$$$$$$/|  $$$$$$$  |  $$$$/| $$ | $$ | $$|  $$$$$$$| $$  | $$ /$$
+		|_______/  \_______/   \___/  |__/ |__/ |__/ \_______/|__/  |__/|__/
+		
+		[File]   : index.html
+		[Author] : r00t
+
+	-->
+	<body>
+
+		<header id="headr">
+			Batman Integration
+		</header>
+
+		<div id="sub">Using Monte Carlo Simulation</div>
+
+		<div id="canvas">
+			
+			<div id="buttons">
+				<a href="#" id="start" class="btn animated fadeIn">START</a>
+				<a href="#" id="reset" class="btn animated fadeIn">RESET</a>
+				<div id="slider"  class="animated fadeIn">Speed </div>
+			</div>
+
+			<div id="stats" class="animated bounceInDown">
+				<span id="EC">
+					Ellipse Points Count: 
+					<span id="ECvalue"></span>
+				</span>
+				<br />
+				<span id="BC">
+					Batman Logo Points Count: 
+					<span id="BCvalue"></span>
+				</span>				
+				<br />
+				<span id="EA">
+					Ellipse Area: 
+					<span id="EAvalue"></span>
+				</span>
+				<br />
+				<span id="BA">
+					Batman Logo Area: 
+					<span id="BAvalue"></span>
+				</span>				
+			</div>
+		</div>
+		<br />
+		<div>
+			<a href="https://twitter.com/r00tl4b" id="twitter" target="_blank" class="btn2 animated fadeIn">Follow Me on Twitter</a>
+			<a href="https://github.com/suraj-root/Batman-Integration" id="github" target="_blank" class="btn2 animated fadeIn">Github Repo</a>
+		</div>
+	</body>
+</html>
