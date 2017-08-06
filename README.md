@@ -17,5 +17,5 @@ Check out [Batman Integration Live](https://suraj-root.github.io/Batman-Integrat
 * [Batman Curve!](http://mathworld.wolfram.com/BatmanCurve.html)
 * [LeiosOS website](http://leios.github.io/Batman_Montecarlo)
 
-##### I was inspired by LeiosOS's post
+##### I was inspired by LeiosOS
 * [Youtube Explaination Video By LeiosOS](https://www.youtube.com/watch?v=AyBNnkYrSWY)
