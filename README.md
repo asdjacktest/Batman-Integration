@@ -1,6 +1,7 @@
 # Batman-Integration
 Using Monte Carlo Simulation
 
+![Quick look](https://s1.postimg.org/syihphvxr/l1xh.png)
 
 [![Twitter](https://img.shields.io/badge/Lang-Js-brightgreen.svg)](https://www.w3schools.com/js/)
 [![License](https://img.shields.io/badge/License-GNU--GPLv3-yellow.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
