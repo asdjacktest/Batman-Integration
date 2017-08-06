@@ -11,7 +11,7 @@
  * @return {[type]}   [None]
  */
 
-
+//Probably there are better ways of doing this, but I was in a hurry to complete the project, so i swooooshed! XD
 $(function() {
 	$('#buttons').css({
 		
