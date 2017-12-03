@@ -9,7 +9,7 @@ Using Monte Carlo Simulation
 
 
 
-Check out [Batman Integration Live](https://suraj-root.github.io/Batman-Integration/)
+Check out [Batman Integration Live](https://rootlabs.github.io/Batman-Integration/)
 
 ### Resources
 * [Monte Carlo](https://en.wikipedia.org/wiki/Monte_Carlo_method)
